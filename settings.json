@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Vim Dark Hard",
+    "vim.enableNeovim": true, // Optional (recommended for better Vim support)
+    "editor.lineNumbers": "relative",
+    // OR (if you want relative only in Normal mode)
+    "vim.relativeLineNumbers": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "glassit.alpha": 200,
+    "extensions.ignoreRecommendations": true
+}
